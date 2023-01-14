@@ -18,7 +18,7 @@ datos= {"nombre":    ["",1,0], "jugador":    ["",2,0],  "cronica": ["",3,0],
         "naturaleza":["",1,8], "conducta":   ["",2,8],  "concepto":["",3,8],
         "clan":      ["",1,14],"generacion": ["",2,14], "sire":    ["",3,14]}
 
-caracteristicas= {"Fuerza":    [2,1,1], "Destreza":    [1,2,1],"Resistencia":[1,3,1],
+caracteristicas= {"Fuerza":    [1,1,1], "Destreza":    [1,2,1],"Resistencia":[1,3,1],
                   "Carisma":   [1,1,8], "Manipulación":[1,2,8],"Apariencia":[1,3,8],
                   "Percepción":[1,1,14],"Inteligencia":[1,2,14],"Astucia":[1,3,14]}
 
